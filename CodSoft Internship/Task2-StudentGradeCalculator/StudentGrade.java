@@ -30,9 +30,5 @@ public class StudentGrade{
         System.out.printf("Average Percentage: %.2f\n",avg);
         System.out.println("Grade :"+grade);
         sc.close();
-
-        
-
     }
-
 }
